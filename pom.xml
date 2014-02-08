@@ -9,15 +9,15 @@
 
 	<!-- SCM -->
 	<scm>
-		<connection>scm:git:git://github.com/lordofthejars/arquillian-undertow.git</connection>
-		<developerConnection>scm:git:git@github.com:lordofthejars/arquillian-undertow.git</developerConnection>
-		<url>https://github.com/lordofthejars/arquillian-undertow</url>
+		<connection>scm:git:git://github.com/lordofthejars/shrinkwrap-container-undertow.git</connection>
+		<developerConnection>scm:git:git@github.com:lordofthejars/shrinkwrap-container-undertow.git</developerConnection>
+		<url>https://github.com/lordofthejars/shrinkwrap-container-undertow</url>
 	</scm>
 
 	<!-- Issues -->
 	<issueManagement>
 		<system>github</system>
-		<url>https://github.com/lordofthejars/arquillian-undertow/issues</url>
+		<url>https://github.com/lordofthejars/shrinkwrap-container-undertow.git/issues</url>
 	</issueManagement>
 
 	<!-- Licenses -->
